@@ -1,5 +1,4 @@
 import java.util.ArrayList;
-
 /**
  * Created by andrey on 08.08.17.
  */
